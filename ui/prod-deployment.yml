@@ -23,4 +23,4 @@ spec:
           name: blog-ui
           ports:
             - containerPort: 443
-      imagePullPolicy: Always
+          imagePullPolicy: Always
